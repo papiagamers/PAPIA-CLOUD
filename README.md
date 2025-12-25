@@ -62,7 +62,7 @@ cd papia-cloud
 ```
 Access the website at http://127.0.0.1:5500
 
-You Can Uose The Node JS Command Also:
+You Can Use The Node JS Command Also:
 ```
 npm install -g http-server
 http-server -p 8080
