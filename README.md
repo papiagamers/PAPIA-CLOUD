@@ -35,7 +35,7 @@ The **Game Hub section** provides quick access to popular game servers such as *
 ---
 
 ## Project Structure
-
+```
 papia-cloud/
 │
 ├─ index.html # Main HTML file containing all sections
@@ -43,7 +43,7 @@ papia-cloud/
 ├─ script.js # JavaScript for interactivity and animations
 ├─ images/ # Icons, logos, and server images
 └─ README.md # Project documentation
-
+```
 ---
 
 ## Getting Started (Run Locally)
