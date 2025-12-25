@@ -56,7 +56,6 @@ papia-cloud/
 
 1. **Clone the repository**
 ```
-bash
 git clone https://github.com/papiagamers/papia-cloud.git
 cd papia-cloud
 ```
