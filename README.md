@@ -55,24 +55,19 @@ papia-cloud/
 ### Steps
 
 1. **Clone the repository**
-```bash
+```
+bash
 git clone https://github.com/papiagamers/papia-cloud.git
 cd papia-cloud
-Run using Live Server (VS Code recommended)
-
-Open the project folder in VS Code
-
-Right-click index.html → Open with Live Server
-
+```
 Access the website at http://127.0.0.1:5500
 
-Or run using Node.js HTTP server
-
-bash
-Copy code
+You Can Uose The Node JS Command Also:
+```
 npm install -g http-server
 http-server -p 8080
-Open your browser at: http://localhost:8080
+```
+Open your browser at: http://127.0.0.1:8080
 
 Usage
 Click “Get Started” in the hero section to explore hosting plans.
