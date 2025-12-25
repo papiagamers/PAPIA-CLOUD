@@ -96,7 +96,9 @@ document.querySelectorAll('.option-card').forEach(card => {
 This snippet ensures visual feedback for selected cards, enhancing user experience and clarity.
 
 **Deployment**
+
 Papia Cloud is a static website, making it easy to deploy to platforms like Netlify, Vercel, or GitHub Pages.Optionally, configure a custom domain and enable free SSL.
 
 ***License***
+
 This project is open-source and free to use for personal, educational, and demonstration purposes. Contributions and forks are welcome.
